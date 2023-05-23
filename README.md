@@ -1,4 +1,5 @@
 # SQL-Challenge
+![image](https://github.com/odwct/SQL-Challenge/assets/126130532/2c667113-80fa-4014-9be2-acd1b9987882)
 
 ## Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
